@@ -13,6 +13,7 @@ Coins support(⚡ means lightning is supported):
 - Litecoin(⚡)
 - Gravity Zero(⚡)
 - Globalboost(⚡)
+- LBRY Credits
 
 Main focus is Bitcoin.
 
