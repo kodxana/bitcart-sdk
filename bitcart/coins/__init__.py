@@ -3,7 +3,7 @@ from .bsty import BSTY
 from .btc import BTC
 from .gzro import GZRO
 from .ltc import LTC
-from .lbc import LBC
+from .lbry import LBC
 
 COINS = {"BTC": BTC, "BCH": BCH, "LTC": LTC, "GZRO": GZRO, "BSTY": BSTY, "LBC": LBC}
 
